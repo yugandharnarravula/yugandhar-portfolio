@@ -126,7 +126,7 @@ export default function Contact() {
           transition={{ duration: 0.6, delay: 0.6 }}
           className="mt-14 text-slate-600 text-sm"
         >
-          Typically respond within 24 hours · Open to remote and hybrid roles
+          Typically respond within 24 hours · Open to remote, hybrid, and on-site roles
         </motion.p>
       </div>
     </section>

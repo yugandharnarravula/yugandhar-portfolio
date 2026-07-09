@@ -26,8 +26,6 @@ npm run build   # production build
 npm start       # run production server
 ```
 
-Deploy instantly on [Vercel](https://vercel.com) — connect your GitHub repo and it deploys automatically with zero configuration.
-
 ## Project Structure
 
 ```

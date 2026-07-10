@@ -2,7 +2,7 @@
 
 Personal portfolio website built with Next.js 16, TypeScript, Tailwind CSS v4, and Framer Motion.
 
-🔗 **Live:** [https://yugandhar-portfolio-three.vercel.app/]([https://yugandhar-portfolio-three.vercel.app/])
+🔗 **Live:** [https://yugandhar-portfolio-three.vercel.app/](https://yugandhar-portfolio-three.vercel.app/)
 
 ## Tech Stack
 

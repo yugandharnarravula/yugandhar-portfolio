@@ -316,10 +316,25 @@ export interface Experience {
 
 export const experience: Experience[] = [
   {
+    id: "exp-0",
+    role: "Agentic AI Engineer",
+    company: "NBCUniversal",
+    duration: "Jan 2025 – Present",
+    location: "United States",
+    type: "work",
+    description: [
+      "Designed and deployed agentic AI systems using LangGraph and LangChain for enterprise-scale automation and intelligent workflow orchestration.",
+      "Built multi-agent pipelines with tool-use, structured outputs, and shared state management to automate complex business processes.",
+      "Integrated LLMs (OpenAI GPT-4o, Groq) with production backends using FastAPI, enabling scalable and reliable AI-powered services.",
+      "Collaborated with cross-functional teams to deliver GenAI solutions aligned with business requirements, performance benchmarks, and responsible AI standards.",
+    ],
+    skills: ["Python", "LangGraph", "LangChain", "Multi-Agent Systems", "OpenAI", "FastAPI", "GenAI", "Agentic AI"],
+  },
+  {
     id: "exp-1",
     role: "Research Assistant",
     company: "Texas Tech University",
-    duration: "Aug 2024 – Present",
+    duration: "Aug 2024 – Dec 2024",
     location: "Lubbock, TX",
     type: "work",
     description: [

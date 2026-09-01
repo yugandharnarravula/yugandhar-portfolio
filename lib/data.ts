@@ -348,7 +348,7 @@ export const experience: Experience[] = [
     id: "exp-2",
     role: "Programmer Analyst Trainee",
     company: "Cognizant",
-    duration: "Jan 2024 – Jun 2024",
+    duration: "Jun 2022 – Jun 2024",
     location: "Bengaluru, India",
     type: "work",
     description: [
